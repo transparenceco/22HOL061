@@ -1,0 +1,98 @@
+# Audio Gallery settings (ENG/FR)
+---
+
+audioPath: "assets/audio/"
+imagePath: "assets/images/"
+
+
+#
+# STANDARD FRENCH (LEFT column)
+#
+standard:
+
+  # INTRO TEXT (LEFT column)
+  introEnglish : "A sample of French words, now part of standard French, first recorded in the Detroit area."
+  introFrench : "Voici des exemples de mots français qui font maintenant partie du français courant et qui ont été notés pour la première fois dans la région de Détroit."
+
+  # AUDIO CLIPS (LEFT column):
+  items:
+    # Clip 1:
+    - file : "clip-1.mp3"
+      thumbnail : "clip-1.png"
+      title: "Couette"
+      english : "Tuft of hair held in place by a barrette"
+      french : "Touffe de cheveux retenue par un lien"
+
+    # Clip 2:
+    - file : "clip-1.mp3"
+      thumbnail : "clip-2.png"
+      title: "Clip 2"
+      english : "Tuft of hair held in place by a barrette"
+      french : "Touffe de cheveux retenue par un lien"
+
+    # Clip 3:
+    - file : "clip-1.mp3"
+      thumbnail : "clip-1.png"
+      title: "Clip 3"
+      english : "Tuft of hair held in place by a barrette"
+      french : "Touffe de cheveux retenue par un lien"
+
+    # Clip 4:
+    - file : "clip-1.mp3"
+      thumbnail : "clip-2.png"
+      title: "Clip 4"
+      english : "Tuft of hair held in place by a barrette"
+      french : "Touffe de cheveux retenue par un lien"
+
+    # Clip 5:
+    - file : "clip-1.mp3"
+      thumbnail : "clip-1.png"
+      title: "Clip 5"
+      english : "Tuft of hair held in place by a barrette"
+      french : "Touffe de cheveux retenue par un lien"
+
+#
+# REGIONAL FRENCH (RIGHT column)
+#
+regional:
+
+  # INTRO TEXT (RIGHT column)
+  introEnglish : "Due to its isolation, Detroit-area French evolved into a regional speech. Here are samples of words, still heard in the region, that do not seem to be found anywhere else."
+  introFrench : "Comme la région de Détroit était isolée, le français y a évolué en un dialecte régional. Voici des exemples de mots que l’on entend toujours dans la région, mais qui sont utilisés nulle par ailleurs."
+
+  # AUDIO CLIPS (RIGHT column):
+  items:
+    # Clip 1:
+    - file : "clip-1.mp3"
+      thumbnail : "clip-1.png"
+      title: "Couette"
+      english : "Tuft of hair held in place by a barrette"
+      french : "Touffe de cheveux retenue par un lien"
+
+    # Clip 2:
+    - file : "clip-2.mp3"
+      thumbnail : "clip-2.png"
+      title: "Clip 2"
+      english : "Tuft of hair held in place by a barrette"
+      french : "Touffe de cheveux retenue par un lien"
+
+    # Clip 3:
+    - file : "clip-1.mp3"
+      thumbnail : "clip-2.png"
+      title: "Clip 3"
+      english : "Tuft of hair held in place by a barrette"
+      french : "Touffe de cheveux retenue par un lien"
+
+    # Clip 4:
+    - file : "clip-2.mp3"
+      thumbnail : "clip-2.png"
+      title: "Clip 4"
+      english : "Tuft of hair held in place by a barrette"
+      french : "Touffe de cheveux retenue par un lien"
+
+    # Clip 5:
+    - file : "clip-1.mp3"
+      thumbnail : "clip-2.png"
+      title: "Clip 5"
+      english : "Tuft of hair held in place by a barrette"
+      french : "Touffe de cheveux retenue par un lien"
